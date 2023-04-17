@@ -1,0 +1,6 @@
+targets:
+  - name: bundle
+    sources:
+      - '**'
+    file: /result/%two_letters_code%/result.json
+    format: xliff
