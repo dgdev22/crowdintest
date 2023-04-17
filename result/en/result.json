@@ -89,7 +89,7 @@
       </trans-unit>
       <trans-unit id="33" resname="First month discount. Find out who's interested in you.">
         <source>shop_subs_introductory_price_desc_ASYNC_PREMIUM</source>
-        <target state="needs-translation">shop_subs_introductory_price_desc_ASYNC_PREMIUM</target>
+        <target state="translated">test</target>
         <note from="Crowdin" priority="2">First month discount. Find out who's interested in you.</note>
       </trans-unit>
       <trans-unit id="35" resname="First month discount. Get 100 free gender items.">
