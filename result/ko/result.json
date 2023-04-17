@@ -1,0 +1,1689 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="3" original="/TRANSLATE2.csv" source-language="en" target-language="ko" datatype="plaintext" project-id="581441" tool-id="crowdin">
+    <header>
+      <tool tool-id="crowdin" tool-name="Crowdin" tool-version="1.1"/>
+    </header>
+    <body>
+      <trans-unit id="1" resname="Source String">
+        <source>Identifier (Key)</source>
+        <target state="needs-translation">Identifier (Key)</target>
+        <note from="Crowdin" priority="2">Source String</note>
+      </trans-unit>
+      <trans-unit id="3" resname="Sample">
+        <source>Sample</source>
+        <target state="needs-translation">Sample</target>
+        <note from="Crowdin" priority="2">Sample</note>
+      </trans-unit>
+      <trans-unit id="5" resname="Shop">
+        <source>shop_title</source>
+        <target state="needs-translation">shop_title</target>
+        <note from="Crowdin" priority="2">Shop</note>
+      </trans-unit>
+      <trans-unit id="7" resname="Purchase">
+        <source>shop_pucharse</source>
+        <target state="needs-translation">shop_pucharse</target>
+        <note from="Crowdin" priority="2">Purchase</note>
+      </trans-unit>
+      <trans-unit id="9" resname="My Inventory">
+        <source>shop_inventory_tab</source>
+        <target state="needs-translation">shop_inventory_tab</target>
+        <note from="Crowdin" priority="2">My Inventory</note>
+      </trans-unit>
+      <trans-unit id="11" resname="My gems">
+        <source>shop_my_gems</source>
+        <target state="needs-translation">shop_my_gems</target>
+        <note from="Crowdin" priority="2">My gems</note>
+      </trans-unit>
+      <trans-unit id="13" resname="Gems">
+        <source>shop_sub_title_gems</source>
+        <target state="needs-translation">shop_sub_title_gems</target>
+        <note from="Crowdin" priority="2">Gems</note>
+      </trans-unit>
+      <trans-unit id="15" resname="Users love these products">
+        <source>shop_subtitle_subs</source>
+        <target state="needs-translation">shop_subtitle_subs</target>
+        <note from="Crowdin" priority="2">Users love these products</note>
+      </trans-unit>
+      <trans-unit id="17" resname="Confirm">
+        <source>common_confirm</source>
+        <target state="needs-translation">common_confirm</target>
+        <note from="Crowdin" priority="2">Confirm</note>
+      </trans-unit>
+      <trans-unit id="19" resname="Unable to access service. Please make sure you are logged in to Google Play.">
+        <source>shop_googleplay_error</source>
+        <target state="needs-translation">shop_googleplay_error</target>
+        <note from="Crowdin" priority="2">Unable to access service. Please make sure you are logged in to Google Play.</note>
+      </trans-unit>
+      <trans-unit id="21" resname="상품 미사용시 iTunes Store 고객센터에서 7일 이내 청약철회 가능">
+        <source>shop_refund_explanation</source>
+        <target state="needs-translation">shop_refund_explanation</target>
+        <note from="Crowdin" priority="2">상품 미사용시 iTunes Store 고객센터에서 7일 이내 청약철회 가능</note>
+      </trans-unit>
+      <trans-unit id="23" resname="Purchase">
+        <source>shop_buy</source>
+        <target state="needs-translation">shop_buy</target>
+        <note from="Crowdin" priority="2">Purchase</note>
+      </trans-unit>
+      <trans-unit id="25" resname="Subscribed">
+        <source>shop_subs_complete_btn</source>
+        <target state="needs-translation">shop_subs_complete_btn</target>
+        <note from="Crowdin" priority="2">Subscribed</note>
+      </trans-unit>
+      <trans-unit id="27" resname="Uh oh">
+        <source>common_sorry</source>
+        <target state="needs-translation">common_sorry</target>
+        <note from="Crowdin" priority="2">Uh oh</note>
+      </trans-unit>
+      <trans-unit id="29" resname="Something went wrong. Please let us know in the Help Center if this problem persists.&#10;&#10;">
+        <source>shop_list_error</source>
+        <target state="needs-translation">shop_list_error</target>
+        <note from="Crowdin" priority="2">Something went wrong. Please let us know in the Help Center if this problem persists.
+
+</note>
+      </trans-unit>
+      <trans-unit id="31" resname="First month discount on {{providingGems}} gems. Get a lifetime discount on gems.">
+        <source>shop_subs_introductory_price_desc_GEM_MEMBERSHIP</source>
+        <target state="needs-translation">shop_subs_introductory_price_desc_GEM_MEMBERSHIP</target>
+        <note from="Crowdin" priority="2">First month discount on {{providingGems}} gems. Get a lifetime discount on gems.</note>
+      </trans-unit>
+      <trans-unit id="33" resname="First month discount. Find out who's interested in you.">
+        <source>shop_subs_introductory_price_desc_ASYNC_PREMIUM</source>
+        <target state="needs-translation">shop_subs_introductory_price_desc_ASYNC_PREMIUM</target>
+        <note from="Crowdin" priority="2">First month discount. Find out who's interested in you.</note>
+      </trans-unit>
+      <trans-unit id="35" resname="First month discount. Get 100 free gender items.">
+        <source>shop_subs_introductory_price_desc_AZAR_PASS</source>
+        <target state="needs-translation">shop_subs_introductory_price_desc_AZAR_PASS</target>
+        <note from="Crowdin" priority="2">First month discount. Get 100 free gender items.</note>
+      </trans-unit>
+      <trans-unit id="37" resname="Sorry, an error has occurred while communicating with the server.">
+        <source>server_error</source>
+        <target state="needs-translation">server_error</target>
+        <note from="Crowdin" priority="2">Sorry, an error has occurred while communicating with the server.</note>
+      </trans-unit>
+      <trans-unit id="39" resname="Retry">
+        <source>common_retry</source>
+        <target state="needs-translation">common_retry</target>
+        <note from="Crowdin" priority="2">Retry</note>
+      </trans-unit>
+      <trans-unit id="41" resname="상품 미사용시 청약철회 7일이내 가능">
+        <source>shop_refund_explanation_android</source>
+        <target state="needs-translation">shop_refund_explanation_android</target>
+        <note from="Crowdin" priority="2">상품 미사용시 청약철회 7일이내 가능</note>
+      </trans-unit>
+      <trans-unit id="43" resname="loading_msg">
+        <source>loading</source>
+        <target state="needs-translation">loading</target>
+        <note from="Crowdin" priority="2">loading_msg</note>
+      </trans-unit>
+      <trans-unit id="45" resname="Wating for payment..">
+        <source>loading_msg</source>
+        <target state="needs-translation">loading_msg</target>
+        <note from="Crowdin" priority="2">Wating for payment..</note>
+      </trans-unit>
+      <trans-unit id="47" resname="(380 Error) Unexpected purchasing error">
+        <source>abuser_380_error_msg</source>
+        <target state="needs-translation">abuser_380_error_msg</target>
+        <note from="Crowdin" priority="2">(380 Error) Unexpected purchasing error</note>
+      </trans-unit>
+      <trans-unit id="49" resname="OFF">
+        <source>shop_price_discount</source>
+        <target state="needs-translation">shop_price_discount</target>
+        <note from="Crowdin" priority="2">OFF</note>
+      </trans-unit>
+      <trans-unit id="51" resname="{var}%">
+        <source>common_percentage</source>
+        <target state="needs-translation">common_percentage</target>
+        <note from="Crowdin" priority="2">{var}%</note>
+      </trans-unit>
+      <trans-unit id="53" resname="(390 Error) You are not old enough to use this feature">
+        <source>abuser_390_error_msg</source>
+        <target state="needs-translation">abuser_390_error_msg</target>
+        <note from="Crowdin" priority="2">(390 Error) You are not old enough to use this feature</note>
+      </trans-unit>
+      <trans-unit id="55" resname="You have received a new item.">
+        <source>shop_inventory_icon</source>
+        <target state="needs-translation">shop_inventory_icon</target>
+        <note from="Crowdin" priority="2">You have received a new item.</note>
+      </trans-unit>
+      <trans-unit id="57" resname="Azar VIP Membership">
+        <source>vip</source>
+        <target state="needs-translation">vip</target>
+        <note from="Crowdin" priority="2">Azar VIP Membership</note>
+      </trans-unit>
+      <trans-unit id="59" resname="{var} users are benefiting from VIP">
+        <source>vip_popup_subscriber_count</source>
+        <target state="needs-translation">vip_popup_subscriber_count</target>
+        <note from="Crowdin" priority="2">{var} users are benefiting from VIP</note>
+      </trans-unit>
+      <trans-unit id="61" resname="Regional Preference">
+        <source>vip_popup_region_prefer_title</source>
+        <target state="needs-translation">vip_popup_region_prefer_title</target>
+        <note from="Crowdin" priority="2">Regional Preference</note>
+      </trans-unit>
+      <trans-unit id="63" resname="Rear Camera">
+        <source>vip_popup_back_camera_title</source>
+        <target state="needs-translation">vip_popup_back_camera_title</target>
+        <note from="Crowdin" priority="2">Rear Camera</note>
+      </trans-unit>
+      <trans-unit id="65" resname="Change Nickname">
+        <source>vip_popup_nickname_change_title</source>
+        <target state="needs-translation">vip_popup_nickname_change_title</target>
+        <note from="Crowdin" priority="2">Change Nickname</note>
+      </trans-unit>
+      <trans-unit id="67" resname="Unique Location">
+        <source>vip_popup_virtual_location_title</source>
+        <target state="needs-translation">vip_popup_virtual_location_title</target>
+        <note from="Crowdin" priority="2">Unique Location</note>
+      </trans-unit>
+      <trans-unit id="69" resname="Special Profile Badge">
+        <source>vip_popup_unique_profile_title</source>
+        <target state="needs-translation">vip_popup_unique_profile_title</target>
+        <note from="Crowdin" priority="2">Special Profile Badge</note>
+      </trans-unit>
+      <trans-unit id="71" resname="Remove Ads">
+        <source>vip_popup_no_ad_title</source>
+        <target state="needs-translation">vip_popup_no_ad_title</target>
+        <note from="Crowdin" priority="2">Remove Ads</note>
+      </trans-unit>
+      <trans-unit id="73" resname="Golden app Icon">
+        <source>vip_popup_alternative_icon_title</source>
+        <target state="needs-translation">vip_popup_alternative_icon_title</target>
+        <note from="Crowdin" priority="2">Golden app Icon</note>
+      </trans-unit>
+      <trans-unit id="75" resname="worth a total of {var}">
+        <source>total_worth</source>
+        <target state="needs-translation">total_worth</target>
+        <note from="Crowdin" priority="2">worth a total of {var}</note>
+      </trans-unit>
+      <trans-unit id="77" resname="worth {var} / Unlimited">
+        <source>worth</source>
+        <target state="needs-translation">worth</target>
+        <note from="Crowdin" priority="2">worth {var} / Unlimited</note>
+      </trans-unit>
+      <trans-unit id="79" resname="Unlimited">
+        <source>unlimited</source>
+        <target state="needs-translation">unlimited</target>
+        <note from="Crowdin" priority="2">Unlimited</note>
+      </trans-unit>
+      <trans-unit id="81" resname="Swipe away and meet people from all over the world.">
+        <source>vip_popup_region_prefer_text</source>
+        <target state="needs-translation">vip_popup_region_prefer_text</target>
+        <note from="Crowdin" priority="2">Swipe away and meet people from all over the world.</note>
+      </trans-unit>
+      <trans-unit id="83" resname="The best way to enjoy 6 unlimited premium benefits! Distinguish yourself to people worldwide.">
+        <source>vip_popup_vip_desc</source>
+        <target state="needs-translation">vip_popup_vip_desc</target>
+        <note from="Crowdin" priority="2">The best way to enjoy 6 unlimited premium benefits! Distinguish yourself to people worldwide.</note>
+      </trans-unit>
+      <trans-unit id="85" resname="Choose what you want to show other people. Use the back camera without limits.">
+        <source>vip_popup_back_camera_desc</source>
+        <target state="needs-translation">vip_popup_back_camera_desc</target>
+        <note from="Crowdin" priority="2">Choose what you want to show other people. Use the back camera without limits.</note>
+      </trans-unit>
+      <trans-unit id="87" resname="Stand out by changing your nickname.">
+        <source>vip_popup_nickname_change_desc</source>
+        <target state="needs-translation">vip_popup_nickname_change_desc</target>
+        <note from="Crowdin" priority="2">Stand out by changing your nickname.</note>
+      </trans-unit>
+      <trans-unit id="89" resname="Mars, cave, desert... What is your favorite one? Try out fun locations.">
+        <source>vip_popup_virtual_location_desc</source>
+        <target state="needs-translation">vip_popup_virtual_location_desc</target>
+        <note from="Crowdin" priority="2">Mars, cave, desert... What is your favorite one? Try out fun locations.</note>
+      </trans-unit>
+      <trans-unit id="91" resname="Distinguish yourself with a special crown badge on your profile. Answer rate will increase.">
+        <source>vip_popup_unique_profile_desc</source>
+        <target state="needs-translation">vip_popup_unique_profile_desc</target>
+        <note from="Crowdin" priority="2">Distinguish yourself with a special crown badge on your profile. Answer rate will increase.</note>
+      </trans-unit>
+      <trans-unit id="93" resname="Enjoy Azar without ads">
+        <source>vip_popup_no_ad_desc</source>
+        <target state="needs-translation">vip_popup_no_ad_desc</target>
+        <note from="Crowdin" priority="2">Enjoy Azar without ads</note>
+      </trans-unit>
+      <trans-unit id="95" resname="Get a shining, gold-colored Azar app icon between other apps.">
+        <source>vip_popup_alternative_icon_desc</source>
+        <target state="needs-translation">vip_popup_alternative_icon_desc</target>
+        <note from="Crowdin" priority="2">Get a shining, gold-colored Azar app icon between other apps.</note>
+      </trans-unit>
+      <trans-unit id="97" resname="Get VIP now">
+        <source>vip_button_subscribe</source>
+        <target state="needs-translation">vip_button_subscribe</target>
+        <note from="Crowdin" priority="2">Get VIP now</note>
+      </trans-unit>
+      <trans-unit id="99" resname="{price} / {time}">
+        <source>price_per_time</source>
+        <target state="needs-translation">price_per_time</target>
+        <note from="Crowdin" priority="2">{price} / {time}</note>
+      </trans-unit>
+      <trans-unit id="101" resname="{price} / {period}">
+        <source>price_per_period</source>
+        <target state="needs-translation">price_per_period</target>
+        <note from="Crowdin" priority="2">{price} / {period}</note>
+      </trans-unit>
+      <trans-unit id="103" resname="Use Region Preference with gems">
+        <source>onetime_purchase_region_filter</source>
+        <target state="needs-translation">onetime_purchase_region_filter</target>
+        <note from="Crowdin" priority="2">Use Region Preference with gems</note>
+      </trans-unit>
+      <trans-unit id="105" resname="Change Nickname once">
+        <source>onetime_purchase_nickname_change</source>
+        <target state="needs-translation">onetime_purchase_nickname_change</target>
+        <note from="Crowdin" priority="2">Change Nickname once</note>
+      </trans-unit>
+      <trans-unit id="107" resname="Change Virtual Location once">
+        <source>onetime_purchase_virtual_location</source>
+        <target state="needs-translation">onetime_purchase_virtual_location</target>
+        <note from="Crowdin" priority="2">Change Virtual Location once</note>
+      </trans-unit>
+      <trans-unit id="109" resname="Maybe next time">
+        <source>next_time</source>
+        <target state="needs-translation">next_time</target>
+        <note from="Crowdin" priority="2">Maybe next time</note>
+      </trans-unit>
+      <trans-unit id="111" resname="Continue">
+        <source>continue</source>
+        <target state="needs-translation">continue</target>
+        <note from="Crowdin" priority="2">Continue</note>
+      </trans-unit>
+      <trans-unit id="113" resname="You are currently subscribed to Azar VIP with another account">
+        <source>vip_popup_button_inactivated</source>
+        <target state="needs-translation">vip_popup_button_inactivated</target>
+        <note from="Crowdin" priority="2">You are currently subscribed to Azar VIP with another account</note>
+      </trans-unit>
+      <trans-unit id="115" resname="{count} time">
+        <source>time</source>
+        <target state="needs-translation">time</target>
+        <note from="Crowdin" priority="2">{count} time</note>
+      </trans-unit>
+      <trans-unit id="117" resname="{count} times">
+        <source>time.plural</source>
+        <target state="needs-translation">time.plural</target>
+        <note from="Crowdin" priority="2">{count} times</note>
+      </trans-unit>
+      <trans-unit id="119" resname="{count} year">
+        <source>period_Y</source>
+        <target state="needs-translation">period_Y</target>
+        <note from="Crowdin" priority="2">{count} year</note>
+      </trans-unit>
+      <trans-unit id="121" resname="{count} years">
+        <source>period_Y.plural</source>
+        <target state="needs-translation">period_Y.plural</target>
+        <note from="Crowdin" priority="2">{count} years</note>
+      </trans-unit>
+      <trans-unit id="123" resname="{count} month">
+        <source>period_M</source>
+        <target state="needs-translation">period_M</target>
+        <note from="Crowdin" priority="2">{count} month</note>
+      </trans-unit>
+      <trans-unit id="125" resname="{count} months">
+        <source>period_M.plural</source>
+        <target state="needs-translation">period_M.plural</target>
+        <note from="Crowdin" priority="2">{count} months</note>
+      </trans-unit>
+      <trans-unit id="127" resname="{count} week">
+        <source>period_W</source>
+        <target state="needs-translation">period_W</target>
+        <note from="Crowdin" priority="2">{count} week</note>
+      </trans-unit>
+      <trans-unit id="129" resname="{count} weeks">
+        <source>period_W.plural</source>
+        <target state="needs-translation">period_W.plural</target>
+        <note from="Crowdin" priority="2">{count} weeks</note>
+      </trans-unit>
+      <trans-unit id="131" resname="{count} day">
+        <source>period_D</source>
+        <target state="needs-translation">period_D</target>
+        <note from="Crowdin" priority="2">{count} day</note>
+      </trans-unit>
+      <trans-unit id="133" resname="{count} days">
+        <source>period_D.plural</source>
+        <target state="needs-translation">period_D.plural</target>
+        <note from="Crowdin" priority="2">{count} days</note>
+      </trans-unit>
+      <trans-unit id="135" resname="{count} minute">
+        <source>period_m</source>
+        <target state="needs-translation">period_m</target>
+        <note from="Crowdin" priority="2">{count} minute</note>
+      </trans-unit>
+      <trans-unit id="137" resname="{count} minutes">
+        <source>period_m.plural</source>
+        <target state="needs-translation">period_m.plural</target>
+        <note from="Crowdin" priority="2">{count} minutes</note>
+      </trans-unit>
+      <trans-unit id="139" resname="{count} second">
+        <source>period_S</source>
+        <target state="needs-translation">period_S</target>
+        <note from="Crowdin" priority="2">{count} second</note>
+      </trans-unit>
+      <trans-unit id="141" resname="{count} seconds">
+        <source>period_S.plural</source>
+        <target state="needs-translation">period_S.plural</target>
+        <note from="Crowdin" priority="2">{count} seconds</note>
+      </trans-unit>
+      <trans-unit id="143" resname="{var}% OFF ">
+        <source>off</source>
+        <target state="needs-translation">off</target>
+        <note from="Crowdin" priority="2">{var}% OFF </note>
+      </trans-unit>
+      <trans-unit id="145" resname="{count} yr">
+        <source>period_Y_simple</source>
+        <target state="needs-translation">period_Y_simple</target>
+        <note from="Crowdin" priority="2">{count} yr</note>
+      </trans-unit>
+      <trans-unit id="147" resname="{count} mo">
+        <source>period_M_simple</source>
+        <target state="needs-translation">period_M_simple</target>
+        <note from="Crowdin" priority="2">{count} mo</note>
+      </trans-unit>
+      <trans-unit id="149" resname="{count} we">
+        <source>period_W_simple</source>
+        <target state="needs-translation">period_W_simple</target>
+        <note from="Crowdin" priority="2">{count} we</note>
+      </trans-unit>
+      <trans-unit id="151" resname="{count} day">
+        <source>period_D_simple</source>
+        <target state="needs-translation">period_D_simple</target>
+        <note from="Crowdin" priority="2">{count} day</note>
+      </trans-unit>
+      <trans-unit id="153" resname="{count} min">
+        <source>period_m_simple</source>
+        <target state="needs-translation">period_m_simple</target>
+        <note from="Crowdin" priority="2">{count} min</note>
+      </trans-unit>
+      <trans-unit id="155" resname="{count} sec">
+        <source>period_S_simple</source>
+        <target state="needs-translation">period_S_simple</target>
+        <note from="Crowdin" priority="2">{count} sec</note>
+      </trans-unit>
+      <trans-unit id="157" resname="Total {price}">
+        <source>price_total</source>
+        <target state="needs-translation">price_total</target>
+        <note from="Crowdin" priority="2">Total {price}</note>
+      </trans-unit>
+      <trans-unit id="159" resname="You are able to turn off auto-renew at anytime.">
+        <source>vip_subscription_terms_title</source>
+        <target state="needs-translation">vip_subscription_terms_title</target>
+        <note from="Crowdin" priority="2">You are able to turn off auto-renew at anytime.</note>
+      </trans-unit>
+      <trans-unit id="161" resname="Payment will be charged to your Play Store Account at confirmation of purchase. Subscriptions are automatically charged at the start of each billing period, and you may be charged no more than 24 hours before the beginning of each billing period. Subscriptions may be managed and auto-renewal may be turned off by going to your settings in the Play Store after purchase. You can access the main features in Azar without this subscription. For more information, visit our {TermsOfService} and {PrivacyPolicy}.">
+        <source>vip_subscription_terms_desc_aos</source>
+        <target state="needs-translation">vip_subscription_terms_desc_aos</target>
+        <note from="Crowdin" priority="2">Payment will be charged to your Play Store Account at confirmation of purchase. Subscriptions are automatically charged at the start of each billing period, and you may be charged no more than 24 hours before the beginning of each billing period. Subscriptions may be managed and auto-renewal may be turned off by going to your settings in the Play Store after purchase. You can access the main features in Azar without this subscription. For more information, visit our {TermsOfService} and {PrivacyPolicy}.</note>
+      </trans-unit>
+      <trans-unit id="163" resname="Payment will be charged to your App Store Account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period. Your account will be charged the same amount for renewal within 24 hours prior to the end of the current period. Subscriptions may be managed and auto-renewal may be turned off by going to your settings in the iTunes Store after purchase. For more information, visit our {TermsOfService} and {PrivacyPolicy}.">
+        <source>vip_subscription_terms_desc_ios</source>
+        <target state="needs-translation">vip_subscription_terms_desc_ios</target>
+        <note from="Crowdin" priority="2">Payment will be charged to your App Store Account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period. Your account will be charged the same amount for renewal within 24 hours prior to the end of the current period. Subscriptions may be managed and auto-renewal may be turned off by going to your settings in the iTunes Store after purchase. For more information, visit our {TermsOfService} and {PrivacyPolicy}.</note>
+      </trans-unit>
+      <trans-unit id="165" resname="These are your VIP benefits.">
+        <source>vip_benefit_popup_desc_renew_on</source>
+        <target state="needs-translation">vip_benefit_popup_desc_renew_on</target>
+        <note from="Crowdin" priority="2">These are your VIP benefits.</note>
+      </trans-unit>
+      <trans-unit id="167" resname="Your benefits will be terminated after {var} day(s).">
+        <source>vip_benefit_popup_desc_renew_off</source>
+        <target state="needs-translation">vip_benefit_popup_desc_renew_off</target>
+        <note from="Crowdin" priority="2">Your benefits will be terminated after {var} day(s).</note>
+      </trans-unit>
+      <trans-unit id="169" resname="Resubscribe to VIP">
+        <source>vip_button_renew</source>
+        <target state="needs-translation">vip_button_renew</target>
+        <note from="Crowdin" priority="2">Resubscribe to VIP</note>
+      </trans-unit>
+      <trans-unit id="171" resname="CLOSE">
+        <source>close</source>
+        <target state="needs-translation">close</target>
+        <note from="Crowdin" priority="2">CLOSE</note>
+      </trans-unit>
+      <trans-unit id="173" resname="worth a total of {var} monthly">
+        <source>total_monthly_worth</source>
+        <target state="needs-translation">total_monthly_worth</target>
+        <note from="Crowdin" priority="2">worth a total of {var} monthly</note>
+      </trans-unit>
+      <trans-unit id="175" resname="{gemCount} Gems are required to unlock regional filters for {unit}.">
+        <source>not_enough_gem_popup_region_filter</source>
+        <target state="needs-translation">not_enough_gem_popup_region_filter</target>
+        <note from="Crowdin" priority="2">{gemCount} Gems are required to unlock regional filters for {unit}.</note>
+      </trans-unit>
+      <trans-unit id="177" resname="Purchase Gems">
+        <source>not_enougn_gem_popup_title</source>
+        <target state="needs-translation">not_enougn_gem_popup_title</target>
+        <note from="Crowdin" priority="2">Purchase Gems</note>
+      </trans-unit>
+      <trans-unit id="179" resname="Purchase">
+        <source>not_enough_gem_popup_purchase</source>
+        <target state="needs-translation">not_enough_gem_popup_purchase</target>
+        <note from="Crowdin" priority="2">Purchase</note>
+      </trans-unit>
+      <trans-unit id="181" resname="Cancel">
+        <source>cancel</source>
+        <target state="needs-translation">cancel</target>
+        <note from="Crowdin" priority="2">Cancel</note>
+      </trans-unit>
+      <trans-unit id="183" resname="Azar VIP Membership">
+        <source>vip_popup_vip_title</source>
+        <target state="needs-translation">vip_popup_vip_title</target>
+        <note from="Crowdin" priority="2">Azar VIP Membership</note>
+      </trans-unit>
+      <trans-unit id="185" resname="Terms of Service">
+        <source>terms_of_service</source>
+        <target state="needs-translation">terms_of_service</target>
+        <note from="Crowdin" priority="2">Terms of Service</note>
+      </trans-unit>
+      <trans-unit id="187" resname="Privacy Policy">
+        <source>privacy_policy</source>
+        <target state="needs-translation">privacy_policy</target>
+        <note from="Crowdin" priority="2">Privacy Policy</note>
+      </trans-unit>
+      <trans-unit id="189" resname="OR">
+        <source>or</source>
+        <target state="needs-translation">or</target>
+        <note from="Crowdin" priority="2">OR</note>
+      </trans-unit>
+      <trans-unit id="191" resname="Azar Gem Plus Lite">
+        <source>gempluslite</source>
+        <target state="needs-translation">gempluslite</target>
+        <note from="Crowdin" priority="2">Azar Gem Plus Lite</note>
+      </trans-unit>
+      <trans-unit id="193" resname="Get {gems} gems every week">
+        <source>gempluslite_popup_gems_title</source>
+        <target state="needs-translation">gempluslite_popup_gems_title</target>
+        <note from="Crowdin" priority="2">Get {gems} gems every week</note>
+      </trans-unit>
+      <trans-unit id="195" resname="Receive {normalGems} gems and an additional {bonusGems} gems every week.">
+        <source>gempluslite_popup_gems_desc</source>
+        <target state="needs-translation">gempluslite_popup_gems_desc</target>
+        <note from="Crowdin" priority="2">Receive {normalGems} gems and an additional {bonusGems} gems every week.</note>
+      </trans-unit>
+      <trans-unit id="197" resname="Subscribe">
+        <source>button_label_subscribe</source>
+        <target state="needs-translation">button_label_subscribe</target>
+        <note from="Crowdin" priority="2">Subscribe</note>
+      </trans-unit>
+      <trans-unit id="199" resname="buy {var}">
+        <source>button_label_buy_other_item</source>
+        <target state="needs-translation">button_label_buy_other_item</target>
+        <note from="Crowdin" priority="2">buy {var}</note>
+      </trans-unit>
+      <trans-unit id="201" resname="{price}">
+        <source>price_only</source>
+        <target state="needs-translation">price_only</target>
+        <note from="Crowdin" priority="2">{price}</note>
+      </trans-unit>
+      <trans-unit id="203" resname="Resubscribe">
+        <source>button_label_resubscribe</source>
+        <target state="needs-translation">button_label_resubscribe</target>
+        <note from="Crowdin" priority="2">Resubscribe</note>
+      </trans-unit>
+      <trans-unit id="205" resname="Already Subscribed to {var}">
+        <source>button_label_already_subscribed_other_ item</source>
+        <target state="needs-translation">button_label_already_subscribed_other_ item</target>
+        <note from="Crowdin" priority="2">Already Subscribed to {var}</note>
+      </trans-unit>
+      <trans-unit id="207" resname="Already subscribed">
+        <source>button_label_already_subscribed</source>
+        <target state="needs-translation">button_label_already_subscribed</target>
+        <note from="Crowdin" priority="2">Already subscribed</note>
+      </trans-unit>
+      <trans-unit id="209" resname="{gemCount} Gems are required to get Lucky Box">
+        <source>not_enough_gem_popup_random_box</source>
+        <target state="needs-translation">not_enough_gem_popup_random_box</target>
+        <note from="Crowdin" priority="2">{gemCount} Gems are required to get Lucky Box</note>
+      </trans-unit>
+      <trans-unit id="211" resname="Lucky Box">
+        <source>shop_subtitle_lootbox</source>
+        <target state="needs-translation">shop_subtitle_lootbox</target>
+        <note from="Crowdin" priority="2">Lucky Box</note>
+      </trans-unit>
+      <trans-unit id="213" resname="Purchase complete. Do you want to go to inventory?">
+        <source>lootbox_popup_purchase_complete</source>
+        <target state="needs-translation">lootbox_popup_purchase_complete</target>
+        <note from="Crowdin" priority="2">Purchase complete. Do you want to go to inventory?</note>
+      </trans-unit>
+      <trans-unit id="215" resname="go">
+        <source>move</source>
+        <target state="needs-translation">move</target>
+        <note from="Crowdin" priority="2">go</note>
+      </trans-unit>
+      <trans-unit id="217" resname="loot box probability">
+        <source>lootbox_popup_probability</source>
+        <target state="needs-translation">lootbox_popup_probability</target>
+        <note from="Crowdin" priority="2">loot box probability</note>
+      </trans-unit>
+      <trans-unit id="219" resname="Do you want to buy?">
+        <source>lootbox_popup_purchase_confirm</source>
+        <target state="needs-translation">lootbox_popup_purchase_confirm</target>
+        <note from="Crowdin" priority="2">Do you want to buy?</note>
+      </trans-unit>
+      <trans-unit id="221" resname="Lounge Plus">
+        <source>lounge_plus</source>
+        <target state="needs-translation">lounge_plus</target>
+        <note from="Crowdin" priority="2">Lounge Plus</note>
+      </trans-unit>
+      <trans-unit id="223" resname="Who Likes Me">
+        <source>async_subscription_benefit_who</source>
+        <target state="needs-translation">async_subscription_benefit_who</target>
+        <note from="Crowdin" priority="2">Who Likes Me</note>
+      </trans-unit>
+      <trans-unit id="225" resname="{count} Messages / Month">
+        <source>async_subscription_benefit_messages</source>
+        <target state="needs-translation">async_subscription_benefit_messages</target>
+        <note from="Crowdin" priority="2">{count} Messages / Month</note>
+      </trans-unit>
+      <trans-unit id="227" resname="{count} Really Likes / Day">
+        <source>async_subscription_benefit_really</source>
+        <target state="needs-translation">async_subscription_benefit_really</target>
+        <note from="Crowdin" priority="2">{count} Really Likes / Day</note>
+      </trans-unit>
+      <trans-unit id="229" resname="Unlimited Cards">
+        <source>async_subscription_benefit_unlimited</source>
+        <target state="needs-translation">async_subscription_benefit_unlimited</target>
+        <note from="Crowdin" priority="2">Unlimited Cards</note>
+      </trans-unit>
+      <trans-unit id="231" resname="Special Card Border">
+        <source>async_subscription_benefit_special</source>
+        <target state="needs-translation">async_subscription_benefit_special</target>
+        <note from="Crowdin" priority="2">Special Card Border</note>
+      </trans-unit>
+      <trans-unit id="233" resname="Hide My Location">
+        <source>async_subscription_benefit_location</source>
+        <target state="needs-translation">async_subscription_benefit_location</target>
+        <note from="Crowdin" priority="2">Hide My Location</note>
+      </trans-unit>
+      <trans-unit id="235" resname="Hide My Age">
+        <source>async_subscription_benefit_age</source>
+        <target state="needs-translation">async_subscription_benefit_age</target>
+        <note from="Crowdin" priority="2">Hide My Age</note>
+      </trans-unit>
+      <trans-unit id="237" resname="Be able to find out who likes you.">
+        <source>async_subscription_description_who</source>
+        <target state="needs-translation">async_subscription_description_who</target>
+        <note from="Crowdin" priority="2">Be able to find out who likes you.</note>
+      </trans-unit>
+      <trans-unit id="239" resname="Send messages and become friends with someone you like!">
+        <source>async_subscription_description_messages</source>
+        <target state="needs-translation">async_subscription_description_messages</target>
+        <note from="Crowdin" priority="2">Send messages and become friends with someone you like!</note>
+      </trans-unit>
+      <trans-unit id="241" resname="When you select &quot;Really Like&quot; on a user, he/she will see your card before anyone else's.">
+        <source>async_subscription_description_really</source>
+        <target state="needs-translation">async_subscription_description_really</target>
+        <note from="Crowdin" priority="2">When you select &quot;Really Like&quot; on a user, he/she will see your card before anyone else's.</note>
+      </trans-unit>
+      <trans-unit id="243" resname="You can view unlimited cards every day.">
+        <source>async_subscription_description_unlimited</source>
+        <target state="needs-translation">async_subscription_description_unlimited</target>
+        <note from="Crowdin" priority="2">You can view unlimited cards every day.</note>
+      </trans-unit>
+      <trans-unit id="245" resname="Your card gets gold outlines to stand out among other cards.">
+        <source>async_subscription_description_special</source>
+        <target state="needs-translation">async_subscription_description_special</target>
+        <note from="Crowdin" priority="2">Your card gets gold outlines to stand out among other cards.</note>
+      </trans-unit>
+      <trans-unit id="247" resname="Don't want to reveal your location? You can hide it.">
+        <source>async_subscription_description_location</source>
+        <target state="needs-translation">async_subscription_description_location</target>
+        <note from="Crowdin" priority="2">Don't want to reveal your location? You can hide it.</note>
+      </trans-unit>
+      <trans-unit id="249" resname="Don't feel comfortable with showing your age? Hide it.">
+        <source>async_subscription_description_age</source>
+        <target state="needs-translation">async_subscription_description_age</target>
+        <note from="Crowdin" priority="2">Don't feel comfortable with showing your age? Hide it.</note>
+      </trans-unit>
+      <trans-unit id="251" resname="GET LOUNGE PLUS">
+        <source>async_get_subscription</source>
+        <target state="needs-translation">async_get_subscription</target>
+        <note from="Crowdin" priority="2">GET LOUNGE PLUS</note>
+      </trans-unit>
+      <trans-unit id="253" resname="Get 1 Really Like">
+        <source>async_get_1_really_like</source>
+        <target state="needs-translation">async_get_1_really_like</target>
+        <note from="Crowdin" priority="2">Get 1 Really Like</note>
+      </trans-unit>
+      <trans-unit id="255" resname="Get 1 Message">
+        <source>async_get_1_message</source>
+        <target state="needs-translation">async_get_1_message</target>
+        <note from="Crowdin" priority="2">Get 1 Message</note>
+      </trans-unit>
+      <trans-unit id="257" resname="{gemCount} Gems are required to send a Really Like. Please purchase more Gems.">
+        <source>not_enough_gem_popup_really_interest</source>
+        <target state="needs-translation">not_enough_gem_popup_really_interest</target>
+        <note from="Crowdin" priority="2">{gemCount} Gems are required to send a Really Like. Please purchase more Gems.</note>
+      </trans-unit>
+      <trans-unit id="259" resname="{gemCount} Gems are required to send a message. Please purchase more Gems.">
+        <source>not_enough_gem_popup_async_friend_request</source>
+        <target state="needs-translation">not_enough_gem_popup_async_friend_request</target>
+        <note from="Crowdin" priority="2">{gemCount} Gems are required to send a message. Please purchase more Gems.</note>
+      </trans-unit>
+      <trans-unit id="261" resname="Maybe Later">
+        <source>maybe_later</source>
+        <target state="needs-translation">maybe_later</target>
+        <note from="Crowdin" priority="2">Maybe Later</note>
+      </trans-unit>
+      <trans-unit id="263" resname="Out of Gems!">
+        <source>out_of_gems</source>
+        <target state="needs-translation">out_of_gems</target>
+        <note from="Crowdin" priority="2">Out of Gems!</note>
+      </trans-unit>
+      <trans-unit id="265" resname="You are already subscribed to Lounge Plus.">
+        <source>async_button_already</source>
+        <target state="needs-translation">async_button_already</target>
+        <note from="Crowdin" priority="2">You are already subscribed to Lounge Plus.</note>
+      </trans-unit>
+      <trans-unit id="267" resname="RESUBSCRIBE">
+        <source>async_button_renew</source>
+        <target state="needs-translation">async_button_renew</target>
+        <note from="Crowdin" priority="2">RESUBSCRIBE</note>
+      </trans-unit>
+      <trans-unit id="269" resname="Camera Off mode">
+        <source>background_mode</source>
+        <target state="needs-translation">background_mode</target>
+        <note from="Crowdin" priority="2">Camera Off mode</note>
+      </trans-unit>
+      <trans-unit id="271" resname="Wish to talk anywhere, anytime?">
+        <source>background_mode_popup_title</source>
+        <target state="needs-translation">background_mode_popup_title</target>
+        <note from="Crowdin" priority="2">Wish to talk anywhere, anytime?</note>
+      </trans-unit>
+      <trans-unit id="273" resname="• Feel free to turn the camera on/off&#10;• Chat in the background while using other apps">
+        <source>background_mode_popup_desc</source>
+        <target state="needs-translation">background_mode_popup_desc</target>
+        <note from="Crowdin" priority="2">• Feel free to turn the camera on/off
+• Chat in the background while using other apps</note>
+      </trans-unit>
+      <trans-unit id="275" resname="{gemCount} gems are required to use the Camera Off mode unlimitedly for {unit}.">
+        <source>not_enough_gem_popup_background_mode</source>
+        <target state="needs-translation">not_enough_gem_popup_background_mode</target>
+        <note from="Crowdin" priority="2">{gemCount} gems are required to use the Camera Off mode unlimitedly for {unit}.</note>
+      </trans-unit>
+      <trans-unit id="277" resname="You are currently using the Camera Off mode">
+        <source>background_mode_popup_button_inactivated</source>
+        <target state="needs-translation">background_mode_popup_button_inactivated</target>
+        <note from="Crowdin" priority="2">You are currently using the Camera Off mode</note>
+      </trans-unit>
+      <trans-unit id="279" resname="Get {gems} gems every month">
+        <source>gempluslite_popup_gems_title_month</source>
+        <target state="needs-translation">gempluslite_popup_gems_title_month</target>
+        <note from="Crowdin" priority="2">Get {gems} gems every month</note>
+      </trans-unit>
+      <trans-unit id="281" resname="Once the purchased product expires, it cannot be received again.">
+        <source>subscription_terms_title2</source>
+        <target state="needs-translation">subscription_terms_title2</target>
+        <note from="Crowdin" priority="2">Once the purchased product expires, it cannot be received again.</note>
+      </trans-unit>
+      <trans-unit id="283" resname="Receive {normalGems} gems and an additional {bonusGems} gems every month.">
+        <source>gempluslite_popup_gems_desc_month</source>
+        <target state="needs-translation">gempluslite_popup_gems_desc_month</target>
+        <note from="Crowdin" priority="2">Receive {normalGems} gems and an additional {bonusGems} gems every month.</note>
+      </trans-unit>
+      <trans-unit id="285" resname="{var}% Off on Region Guaranteed">
+        <source>vip_popup_guarantee_discount_title</source>
+        <target state="needs-translation">vip_popup_guarantee_discount_title</target>
+        <note from="Crowdin" priority="2">{var}% Off on Region Guaranteed</note>
+      </trans-unit>
+      <trans-unit id="287" resname="Only with VIP you can get a special discount and guarantee 100% of your regional choice.">
+        <source>vip_popup_guarantee_discount_desc</source>
+        <target state="needs-translation">vip_popup_guarantee_discount_desc</target>
+        <note from="Crowdin" priority="2">Only with VIP you can get a special discount and guarantee 100% of your regional choice.</note>
+      </trans-unit>
+      <trans-unit id="289" resname="Unable to access service. Please make sure you are logged in to Appstore.">
+        <source>shop_appstore_error</source>
+        <target state="needs-translation">shop_appstore_error</target>
+        <note from="Crowdin" priority="2">Unable to access service. Please make sure you are logged in to Appstore.</note>
+      </trans-unit>
+      <trans-unit id="291" resname="Sorry, you cannot subscribe to Lounge Plus because this plan is no longer on sale.">
+        <source>async_subscription_ended_button</source>
+        <target state="needs-translation">async_subscription_ended_button</target>
+        <note from="Crowdin" priority="2">Sorry, you cannot subscribe to Lounge Plus because this plan is no longer on sale.</note>
+      </trans-unit>
+      <trans-unit id="293" resname="Close">
+        <source>Close</source>
+        <target state="needs-translation">Close</target>
+        <note from="Crowdin" priority="2">Close</note>
+      </trans-unit>
+      <trans-unit id="295" resname="My hashtag">
+        <source>edit_myprofile_recommend_hashtag_title</source>
+        <target state="needs-translation">edit_myprofile_recommend_hashtag_title</target>
+        <note from="Crowdin" priority="2">My hashtag</note>
+      </trans-unit>
+      <trans-unit id="297" resname="OK">
+        <source>edit_myprofile_recommend_hashtag_ok</source>
+        <target state="needs-translation">edit_myprofile_recommend_hashtag_ok</target>
+        <note from="Crowdin" priority="2">OK</note>
+      </trans-unit>
+      <trans-unit id="299" resname="No search results found.">
+        <source>edit_myprofile_school_search_noresult</source>
+        <target state="needs-translation">edit_myprofile_school_search_noresult</target>
+        <note from="Crowdin" priority="2">No search results found.</note>
+      </trans-unit>
+      <trans-unit id="301" resname="%@ search results">
+        <source>edit_myprofile_school_search_result</source>
+        <target state="needs-translation">edit_myprofile_school_search_result</target>
+        <note from="Crowdin" priority="2">%@ search results</note>
+      </trans-unit>
+      <trans-unit id="303" resname="Please enter your school name.">
+        <source>edit_myprofile_school_search_default_text</source>
+        <target state="needs-translation">edit_myprofile_school_search_default_text</target>
+        <note from="Crowdin" priority="2">Please enter your school name.</note>
+      </trans-unit>
+      <trans-unit id="305" resname="Add">
+        <source>edit_myprofile_school_search_add</source>
+        <target state="needs-translation">edit_myprofile_school_search_add</target>
+        <note from="Crowdin" priority="2">Add</note>
+      </trans-unit>
+      <trans-unit id="307" resname="School">
+        <source>edit_profile_school_search_title</source>
+        <target state="needs-translation">edit_profile_school_search_title</target>
+        <note from="Crowdin" priority="2">School</note>
+      </trans-unit>
+      <trans-unit id="309" resname="Go to buy">
+        <source>special_go</source>
+        <target state="needs-translation">special_go</target>
+        <note from="Crowdin" priority="2">Go to buy</note>
+      </trans-unit>
+      <trans-unit id="311" resname="You can add up to 30 hashtags.">
+        <source>hashtag_popup_maxguideline</source>
+        <target state="needs-translation">hashtag_popup_maxguideline</target>
+        <note from="Crowdin" priority="2">You can add up to 30 hashtags.</note>
+      </trans-unit>
+      <trans-unit id="313" resname="{gemCount} Gems are required.">
+        <source>not_enough_gem_popup_general</source>
+        <target state="needs-translation">not_enough_gem_popup_general</target>
+        <note from="Crowdin" priority="2">{gemCount} Gems are required.</note>
+      </trans-unit>
+      <trans-unit id="315" resname="{count} hour">
+        <source>period_H</source>
+        <target state="needs-translation">period_H</target>
+        <note from="Crowdin" priority="2">{count} hour</note>
+      </trans-unit>
+      <trans-unit id="317" resname="{count} hours">
+        <source>period_H.plural</source>
+        <target state="needs-translation">period_H.plural</target>
+        <note from="Crowdin" priority="2">{count} hours</note>
+      </trans-unit>
+      <trans-unit id="319" resname="Special Offer!">
+        <source>special_offer</source>
+        <target state="needs-translation">special_offer</target>
+        <note from="Crowdin" priority="2">Special Offer!</note>
+      </trans-unit>
+      <trans-unit id="321">
+        <source>refund_policy_title</source>
+        <target state="needs-translation">refund_policy_title</target>
+      </trans-unit>
+      <trans-unit id="323" resname="Enter Shop">
+        <source>entershop</source>
+        <target state="needs-translation">entershop</target>
+        <note from="Crowdin" priority="2">Enter Shop</note>
+      </trans-unit>
+      <trans-unit id="325" resname="Azar Entrance Effect">
+        <source>deco_entrance_effect_popup_head_title</source>
+        <target state="needs-translation">deco_entrance_effect_popup_head_title</target>
+        <note from="Crowdin" priority="2">Azar Entrance Effect</note>
+      </trans-unit>
+      <trans-unit id="327" resname="Want to see the effect that suits you?">
+        <source>deco_entrance_effect_popup_title</source>
+        <target state="needs-translation">deco_entrance_effect_popup_title</target>
+        <note from="Crowdin" priority="2">Want to see the effect that suits you?</note>
+      </trans-unit>
+      <trans-unit id="329" resname="Done! Now others can see your entrance effect at the beginning of matches. All free in the beta version.">
+        <source>deco_entrance_effect_popup_desc</source>
+        <target state="needs-translation">deco_entrance_effect_popup_desc</target>
+        <note from="Crowdin" priority="2">Done! Now others can see your entrance effect at the beginning of matches. All free in the beta version.</note>
+      </trans-unit>
+      <trans-unit id="331" resname="See it">
+        <source>see_it</source>
+        <target state="needs-translation">see_it</target>
+        <note from="Crowdin" priority="2">See it</note>
+      </trans-unit>
+      <trans-unit id="333" resname="Message">
+        <source>message</source>
+        <target state="needs-translation">message</target>
+        <note from="Crowdin" priority="2">Message</note>
+      </trans-unit>
+      <trans-unit id="335" resname="Seems like you own a free Message item! This item will be used instead of Gems.">
+        <source>message_item_popup_desc</source>
+        <target state="needs-translation">message_item_popup_desc</target>
+        <note from="Crowdin" priority="2">Seems like you own a free Message item! This item will be used instead of Gems.</note>
+      </trans-unit>
+      <trans-unit id="337" resname="GOT IT">
+        <source>got_it</source>
+        <target state="needs-translation">got_it</target>
+        <note from="Crowdin" priority="2">GOT IT</note>
+      </trans-unit>
+      <trans-unit id="339" resname="This chat room will be closed after 15 days unless you become friends. Would you like to start chatting?">
+        <source>message_onboarding_popup_desc</source>
+        <target state="needs-translation">message_onboarding_popup_desc</target>
+        <note from="Crowdin" priority="2">This chat room will be closed after 15 days unless you become friends. Would you like to start chatting?</note>
+      </trans-unit>
+      <trans-unit id="341" resname="Message">
+        <source>item_name_friend_request</source>
+        <target state="needs-translation">item_name_friend_request</target>
+        <note from="Crowdin" priority="2">Message</note>
+      </trans-unit>
+      <trans-unit id="343" resname="My items">
+        <source>deco_my_item</source>
+        <target state="needs-translation">deco_my_item</target>
+        <note from="Crowdin" priority="2">My items</note>
+      </trans-unit>
+      <trans-unit id="345" resname="Sticker">
+        <source>deco_sticker</source>
+        <target state="needs-translation">deco_sticker</target>
+        <note from="Crowdin" priority="2">Sticker</note>
+      </trans-unit>
+      <trans-unit id="347" resname="Entrance effect">
+        <source>deco_entrance_effect</source>
+        <target state="needs-translation">deco_entrance_effect</target>
+        <note from="Crowdin" priority="2">Entrance effect</note>
+      </trans-unit>
+      <trans-unit id="349" resname="Filter effect">
+        <source>deco_filter_effect</source>
+        <target state="needs-translation">deco_filter_effect</target>
+        <note from="Crowdin" priority="2">Filter effect</note>
+      </trans-unit>
+      <trans-unit id="351" resname="Beauty effect">
+        <source>deco_beauty_effect</source>
+        <target state="needs-translation">deco_beauty_effect</target>
+        <note from="Crowdin" priority="2">Beauty effect</note>
+      </trans-unit>
+      <trans-unit id="353" resname="Graphic effect">
+        <source>deco_graphic_effect</source>
+        <target state="needs-translation">deco_graphic_effect</target>
+        <note from="Crowdin" priority="2">Graphic effect</note>
+      </trans-unit>
+      <trans-unit id="355" resname="FREE">
+        <source>free</source>
+        <target state="needs-translation">free</target>
+        <note from="Crowdin" priority="2">FREE</note>
+      </trans-unit>
+      <trans-unit id="357" resname="New Deco Items">
+        <source>deco_purchase_popup_title</source>
+        <target state="needs-translation">deco_purchase_popup_title</target>
+        <note from="Crowdin" priority="2">New Deco Items</note>
+      </trans-unit>
+      <trans-unit id="359" resname="Go get total {var} item(s)">
+        <source>deco_purchase_popup_button_purchase</source>
+        <target state="needs-translation">deco_purchase_popup_button_purchase</target>
+        <note from="Crowdin" priority="2">Go get total {var} item(s)</note>
+      </trans-unit>
+      <trans-unit id="361" resname="Go back and edit more">
+        <source>deco_purchase_popup_button_close</source>
+        <target state="needs-translation">deco_purchase_popup_button_close</target>
+        <note from="Crowdin" priority="2">Go back and edit more</note>
+      </trans-unit>
+      <trans-unit id="363" resname="Fill up your screen with colorful items and start a new match! ">
+        <source>deco_my_item_no_item_desc</source>
+        <target state="needs-translation">deco_my_item_no_item_desc</target>
+        <note from="Crowdin" priority="2">Fill up your screen with colorful items and start a new match! </note>
+      </trans-unit>
+      <trans-unit id="365" resname="Please receive the item reward after watching the video ad.">
+        <source>rewardad_400_error</source>
+        <target state="needs-translation">rewardad_400_error</target>
+        <note from="Crowdin" priority="2">Please receive the item reward after watching the video ad.</note>
+      </trans-unit>
+      <trans-unit id="367" resname="Unable to access.">
+        <source>rewardad_400_title</source>
+        <target state="needs-translation">rewardad_400_title</target>
+        <note from="Crowdin" priority="2">Unable to access.</note>
+      </trans-unit>
+      <trans-unit id="369" resname="Gender Preference Item">
+        <source>item_name_gender_choice_item</source>
+        <target state="needs-translation">item_name_gender_choice_item</target>
+        <note from="Crowdin" priority="2">Gender Preference Item</note>
+      </trans-unit>
+      <trans-unit id="371" resname="Match with your preferred gender! One item will be used per filtered match.">
+        <source>item_guide_popup_gender_filter_desc</source>
+        <target state="needs-translation">item_guide_popup_gender_filter_desc</target>
+        <note from="Crowdin" priority="2">Match with your preferred gender! One item will be used per filtered match.</note>
+      </trans-unit>
+      <trans-unit id="373" resname="Free Item">
+        <source>rewardad_shop_title</source>
+        <target state="needs-translation">rewardad_shop_title</target>
+        <note from="Crowdin" priority="2">Free Item</note>
+      </trans-unit>
+      <trans-unit id="375" resname="Please, agree to receive marketing information if you would like to receive information on various gem discount events. We will give one free Gender Preference filter to those who agree. \n&#10;Issue date: the day after clicking the Agree button">
+        <source>marketing_noti_contents</source>
+        <target state="needs-translation">marketing_noti_contents</target>
+        <note from="Crowdin" priority="2">Please, agree to receive marketing information if you would like to receive information on various gem discount events. We will give one free Gender Preference filter to those who agree. \n
+Issue date: the day after clicking the Agree button</note>
+      </trans-unit>
+      <trans-unit id="377" resname="Agree to Marketing Notification">
+        <source>marketing_noti_title</source>
+        <target state="needs-translation">marketing_noti_title</target>
+        <note from="Crowdin" priority="2">Agree to Marketing Notification</note>
+      </trans-unit>
+      <trans-unit id="379" resname="Who's Viewed Your Profile">
+        <source>whos_viewed_your_profile_title</source>
+        <target state="needs-translation">whos_viewed_your_profile_title</target>
+        <note from="Crowdin" priority="2">Who's Viewed Your Profile</note>
+      </trans-unit>
+      <trans-unit id="381" resname="Today">
+        <source>today</source>
+        <target state="needs-translation">today</target>
+        <note from="Crowdin" priority="2">Today</note>
+      </trans-unit>
+      <trans-unit id="383" resname="Yesterday">
+        <source>yesterday</source>
+        <target state="needs-translation">yesterday</target>
+        <note from="Crowdin" priority="2">Yesterday</note>
+      </trans-unit>
+      <trans-unit id="385" resname="Meet new friends now!">
+        <source>meet_new_friends_now</source>
+        <target state="needs-translation">meet_new_friends_now</target>
+        <note from="Crowdin" priority="2">Meet new friends now!</note>
+      </trans-unit>
+      <trans-unit id="387" resname="Oops! No one has viewed your profile yet.\nMeet new friends and boost your profile!">
+        <source>whos_viewed_your_profile_blank</source>
+        <target state="needs-translation">whos_viewed_your_profile_blank</target>
+        <note from="Crowdin" priority="2">Oops! No one has viewed your profile yet.\nMeet new friends and boost your profile!</note>
+      </trans-unit>
+      <trans-unit id="389" resname="{day}.{month}.{year}">
+        <source>date</source>
+        <target state="needs-translation">date</target>
+        <note from="Crowdin" priority="2">{day}.{month}.{year}</note>
+      </trans-unit>
+      <trans-unit id="391" resname="Oops, something went wrong!\nTry coming back later.">
+        <source>common_error</source>
+        <target state="needs-translation">common_error</target>
+        <note from="Crowdin" priority="2">Oops, something went wrong!\nTry coming back later.</note>
+      </trans-unit>
+      <trans-unit id="393" resname="This user no longer exists.">
+        <source>common_deleted_user</source>
+        <target state="needs-translation">common_deleted_user</target>
+        <note from="Crowdin" priority="2">This user no longer exists.</note>
+      </trans-unit>
+      <trans-unit id="395" resname="My Avatar Item">
+        <source>deco_avatar_my_item</source>
+        <target state="needs-translation">deco_avatar_my_item</target>
+        <note from="Crowdin" priority="2">My Avatar Item</note>
+      </trans-unit>
+      <trans-unit id="397" resname="Create your own avatar and show it to others!">
+        <source>deco_avatar_my_item_no_item_desc</source>
+        <target state="needs-translation">deco_avatar_my_item_no_item_desc</target>
+        <note from="Crowdin" priority="2">Create your own avatar and show it to others!</note>
+      </trans-unit>
+      <trans-unit id="399" resname="Head">
+        <source>deco_avatar_head</source>
+        <target state="needs-translation">deco_avatar_head</target>
+        <note from="Crowdin" priority="2">Head</note>
+      </trans-unit>
+      <trans-unit id="401" resname="Body">
+        <source>deco_avatar_body</source>
+        <target state="needs-translation">deco_avatar_body</target>
+        <note from="Crowdin" priority="2">Body</note>
+      </trans-unit>
+      <trans-unit id="403" resname="Background">
+        <source>deco_avatar_background</source>
+        <target state="needs-translation">deco_avatar_background</target>
+        <note from="Crowdin" priority="2">Background</note>
+      </trans-unit>
+      <trans-unit id="405" resname="Accessory">
+        <source>deco_avatar_accessory</source>
+        <target state="needs-translation">deco_avatar_accessory</target>
+        <note from="Crowdin" priority="2">Accessory</note>
+      </trans-unit>
+      <trans-unit id="407" resname="Hair">
+        <source>deco_avatar_head_hair</source>
+        <target state="needs-translation">deco_avatar_head_hair</target>
+        <note from="Crowdin" priority="2">Hair</note>
+      </trans-unit>
+      <trans-unit id="409" resname="Face">
+        <source>deco_avatar_head_face</source>
+        <target state="needs-translation">deco_avatar_head_face</target>
+        <note from="Crowdin" priority="2">Face</note>
+      </trans-unit>
+      <trans-unit id="411" resname="Eyebrows">
+        <source>deco_avatar_head_eyebrows</source>
+        <target state="needs-translation">deco_avatar_head_eyebrows</target>
+        <note from="Crowdin" priority="2">Eyebrows</note>
+      </trans-unit>
+      <trans-unit id="413" resname="Eyes">
+        <source>deco_avatar_head_eyes</source>
+        <target state="needs-translation">deco_avatar_head_eyes</target>
+        <note from="Crowdin" priority="2">Eyes</note>
+      </trans-unit>
+      <trans-unit id="415" resname="Nose">
+        <source>deco_avatar_head_nose</source>
+        <target state="needs-translation">deco_avatar_head_nose</target>
+        <note from="Crowdin" priority="2">Nose</note>
+      </trans-unit>
+      <trans-unit id="417" resname="Mouth">
+        <source>deco_avatar_head_mouth</source>
+        <target state="needs-translation">deco_avatar_head_mouth</target>
+        <note from="Crowdin" priority="2">Mouth</note>
+      </trans-unit>
+      <trans-unit id="419" resname="Body">
+        <source>deco_avatar_body_shape</source>
+        <target state="needs-translation">deco_avatar_body_shape</target>
+        <note from="Crowdin" priority="2">Body</note>
+      </trans-unit>
+      <trans-unit id="421" resname="Top">
+        <source>deco_avatar_body_top</source>
+        <target state="needs-translation">deco_avatar_body_top</target>
+        <note from="Crowdin" priority="2">Top</note>
+      </trans-unit>
+      <trans-unit id="423" resname="Eyewear">
+        <source>deco_avatar_accessory_headwear</source>
+        <target state="needs-translation">deco_avatar_accessory_headwear</target>
+        <note from="Crowdin" priority="2">Eyewear</note>
+      </trans-unit>
+      <trans-unit id="425" resname="Facial hair">
+        <source>deco_avatar_accessory_facialhair</source>
+        <target state="needs-translation">deco_avatar_accessory_facialhair</target>
+        <note from="Crowdin" priority="2">Facial hair</note>
+      </trans-unit>
+      <trans-unit id="427" resname="Necklace">
+        <source>deco_avatar_accessory_necklace</source>
+        <target state="needs-translation">deco_avatar_accessory_necklace</target>
+        <note from="Crowdin" priority="2">Necklace</note>
+      </trans-unit>
+      <trans-unit id="429" resname="Earring">
+        <source>deco_avatar_accessory_earring</source>
+        <target state="needs-translation">deco_avatar_accessory_earring</target>
+        <note from="Crowdin" priority="2">Earring</note>
+      </trans-unit>
+      <trans-unit id="431" resname="OK">
+        <source>ok</source>
+        <target state="needs-translation">ok</target>
+        <note from="Crowdin" priority="2">OK</note>
+      </trans-unit>
+      <trans-unit id="433" resname="My Deco Item">
+        <source>deco_non_avatar_my_item</source>
+        <target state="needs-translation">deco_non_avatar_my_item</target>
+        <note from="Crowdin" priority="2">My Deco Item</note>
+      </trans-unit>
+      <trans-unit id="435" resname="Face">
+        <source>deco_avatar_head_face_beta</source>
+        <target state="needs-translation">deco_avatar_head_face_beta</target>
+        <note from="Crowdin" priority="2">Face</note>
+      </trans-unit>
+      <trans-unit id="437" resname="Hair">
+        <source>deco_avatar_head_hair_beta</source>
+        <target state="needs-translation">deco_avatar_head_hair_beta</target>
+        <note from="Crowdin" priority="2">Hair</note>
+      </trans-unit>
+      <trans-unit id="439" resname="Facial hair">
+        <source>deco_avatar_head_facialhair_beta</source>
+        <target state="needs-translation">deco_avatar_head_facialhair_beta</target>
+        <note from="Crowdin" priority="2">Facial hair</note>
+      </trans-unit>
+      <trans-unit id="441" resname="Body">
+        <source>deco_avatar_body_shape_beta</source>
+        <target state="needs-translation">deco_avatar_body_shape_beta</target>
+        <note from="Crowdin" priority="2">Body</note>
+      </trans-unit>
+      <trans-unit id="443" resname="Top">
+        <source>deco_avatar_body_top_beta</source>
+        <target state="needs-translation">deco_avatar_body_top_beta</target>
+        <note from="Crowdin" priority="2">Top</note>
+      </trans-unit>
+      <trans-unit id="445" resname="Subscriptions">
+        <source>item_inventory_category_subscription_item_title</source>
+        <target state="needs-translation">item_inventory_category_subscription_item_title</target>
+        <note from="Crowdin" priority="2">Subscriptions</note>
+      </trans-unit>
+      <trans-unit id="447" resname="Consumable Items">
+        <source>Item_inventory_category_consumable_item_title</source>
+        <target state="needs-translation">Item_inventory_category_consumable_item_title</target>
+        <note from="Crowdin" priority="2">Consumable Items</note>
+      </trans-unit>
+      <trans-unit id="449" resname="Items with limited amount of uses">
+        <source>Item_inventory_category_consumable_item_desc</source>
+        <target state="needs-translation">Item_inventory_category_consumable_item_desc</target>
+        <note from="Crowdin" priority="2">Items with limited amount of uses</note>
+      </trans-unit>
+      <trans-unit id="451" resname="Unlimited Items">
+        <source>item_inventory_category_periodic_item_title</source>
+        <target state="needs-translation">item_inventory_category_periodic_item_title</target>
+        <note from="Crowdin" priority="2">Unlimited Items</note>
+      </trans-unit>
+      <trans-unit id="453" resname="Items with unlimited usage">
+        <source>item_inventory_category_periodic_item_desc</source>
+        <target state="needs-translation">item_inventory_category_periodic_item_desc</target>
+        <note from="Crowdin" priority="2">Items with unlimited usage</note>
+      </trans-unit>
+      <trans-unit id="455" resname="{var} day(s) left">
+        <source>item_inventory_expire_day</source>
+        <target state="needs-translation">item_inventory_expire_day</target>
+        <note from="Crowdin" priority="2">{var} day(s) left</note>
+      </trans-unit>
+      <trans-unit id="457" resname="{var} min(s) left">
+        <source>item_inventory_expire_minute</source>
+        <target state="needs-translation">item_inventory_expire_minute</target>
+        <note from="Crowdin" priority="2">{var} min(s) left</note>
+      </trans-unit>
+      <trans-unit id="459" resname="{var} hour(s) left">
+        <source>item_inventory_expire_hour</source>
+        <target state="needs-translation">item_inventory_expire_hour</target>
+        <note from="Crowdin" priority="2">{var} hour(s) left</note>
+      </trans-unit>
+      <trans-unit id="461" resname="Referral Code">
+        <source>promo_code_title</source>
+        <target state="needs-translation">promo_code_title</target>
+        <note from="Crowdin" priority="2">Referral Code</note>
+      </trans-unit>
+      <trans-unit id="463" resname="Enter a referral code">
+        <source>promo_code_input_place_holder</source>
+        <target state="needs-translation">promo_code_input_place_holder</target>
+        <note from="Crowdin" priority="2">Enter a referral code</note>
+      </trans-unit>
+      <trans-unit id="465" resname="Claim">
+        <source>promo_code_claim_btn</source>
+        <target state="needs-translation">promo_code_claim_btn</target>
+        <note from="Crowdin" priority="2">Claim</note>
+      </trans-unit>
+      <trans-unit id="467" resname="This code is currently not available for use.">
+        <source>promo_code_error_01</source>
+        <target state="needs-translation">promo_code_error_01</target>
+        <note from="Crowdin" priority="2">This code is currently not available for use.</note>
+      </trans-unit>
+      <trans-unit id="469" resname="Invalid referral code. Please check and try again.">
+        <source>promo_code_error_02</source>
+        <target state="needs-translation">promo_code_error_02</target>
+        <note from="Crowdin" priority="2">Invalid referral code. Please check and try again.</note>
+      </trans-unit>
+      <trans-unit id="471" resname="Sorry, you're not able to use this referral code.">
+        <source>promo_code_error_03</source>
+        <target state="needs-translation">promo_code_error_03</target>
+        <note from="Crowdin" priority="2">Sorry, you're not able to use this referral code.</note>
+      </trans-unit>
+      <trans-unit id="473" resname="You've already used this referral code.">
+        <source>promo_code_error_04</source>
+        <target state="needs-translation">promo_code_error_04</target>
+        <note from="Crowdin" priority="2">You've already used this referral code.</note>
+      </trans-unit>
+      <trans-unit id="475" resname="Your referral code has been successfully claimed.">
+        <source>promo_code_success_desc</source>
+        <target state="needs-translation">promo_code_success_desc</target>
+        <note from="Crowdin" priority="2">Your referral code has been successfully claimed.</note>
+      </trans-unit>
+      <trans-unit id="477" resname="No purchased items">
+        <source>item_inventory_empty</source>
+        <target state="needs-translation">item_inventory_empty</target>
+        <note from="Crowdin" priority="2">No purchased items</note>
+      </trans-unit>
+      <trans-unit id="479" resname="Shop">
+        <source>item_inventory_shop_title</source>
+        <target state="needs-translation">item_inventory_shop_title</target>
+        <note from="Crowdin" priority="2">Shop</note>
+      </trans-unit>
+      <trans-unit id="481" resname="Provide personalized advertisement for get free items">
+        <source>rewardad_gdpr_title</source>
+        <target state="needs-translation">rewardad_gdpr_title</target>
+        <note from="Crowdin" priority="2">Provide personalized advertisement for get free items</note>
+      </trans-unit>
+      <trans-unit id="483" resname="I accept the provision of identifier information to provide personalized advertisement.&#10;The collected identifier information will be delivered to advertising networks to provide relevant advertising contents and will not be used or sold for any other purpose.&#10;consent can be changed at any time in 'More' menu.&#10;If you do not agree, rewarded personalized  advertisement will not be provided.&#10;&lt;br&gt;&#10;For more information, visit our &lt;a href=&quot;https://azarlive.com/home/terms-of-service.html&quot;&gt;Terms of Service&lt;/a&gt; and &lt;">
+        <source>rewardad_gdpr_text</source>
+        <target state="needs-translation">rewardad_gdpr_text</target>
+        <note from="Crowdin" priority="2">I accept the provision of identifier information to provide personalized advertisement.
+The collected identifier information will be delivered to advertising networks to provide relevant advertising contents and will not be used or sold for any other purpose.
+consent can be changed at any time in 'More' menu.
+If you do not agree, rewarded personalized  advertisement will not be provided.
+&lt;br&gt;
+For more information, visit our &lt;a href=&quot;https://azarlive.com/home/terms-of-service.html&quot;&gt;Terms of Service&lt;/a&gt; and &lt;a href=&quot;http://azarlive.com/home/privacy-policy.html&quot;&gt;Privacy Policy&lt;/a&gt;.</note>
+      </trans-unit>
+      <trans-unit id="485" resname="Accept">
+        <source>rewardad_gdpr_accept</source>
+        <target state="needs-translation">rewardad_gdpr_accept</target>
+        <note from="Crowdin" priority="2">Accept</note>
+      </trans-unit>
+      <trans-unit id="487" resname="Reject">
+        <source>rewardad_gdpr_reject</source>
+        <target state="needs-translation">rewardad_gdpr_reject</target>
+        <note from="Crowdin" priority="2">Reject</note>
+      </trans-unit>
+      <trans-unit id="489" resname="Regional Preference 20% OFF">
+        <source>vip_popup_regional_preference_discount_title</source>
+        <target state="needs-translation">vip_popup_regional_preference_discount_title</target>
+        <note from="Crowdin" priority="2">Regional Preference 20% OFF</note>
+      </trans-unit>
+      <trans-unit id="491" resname="Unlimited Regional Preference">
+        <source>vip_popup_unlimited_regional_preference_title</source>
+        <target state="needs-translation">vip_popup_unlimited_regional_preference_title</target>
+        <note from="Crowdin" priority="2">Unlimited Regional Preference</note>
+      </trans-unit>
+      <trans-unit id="493" resname="Swipe away and meet people from all over the world! Selected region will be matched first.">
+        <source>vip_popup_unlimited_regional_preference_desc</source>
+        <target state="needs-translation">vip_popup_unlimited_regional_preference_desc</target>
+        <note from="Crowdin" priority="2">Swipe away and meet people from all over the world! Selected region will be matched first.</note>
+      </trans-unit>
+      <trans-unit id="495" resname="VIP only! Your selected region is 100% guaranteed.">
+        <source>vip_popup_regional_preference_discount_desc</source>
+        <target state="needs-translation">vip_popup_regional_preference_discount_desc</target>
+        <note from="Crowdin" priority="2">VIP only! Your selected region is 100% guaranteed.</note>
+      </trans-unit>
+      <trans-unit id="497" resname="The item has expired.">
+        <source>item_inventory_expire_notice</source>
+        <target state="needs-translation">item_inventory_expire_notice</target>
+        <note from="Crowdin" priority="2">The item has expired.</note>
+      </trans-unit>
+      <trans-unit id="499" resname="If you do not consume all your items before the expiry date, your items will disappear.">
+        <source>item_inventory_event_notice_001</source>
+        <target state="needs-translation">item_inventory_event_notice_001</target>
+        <note from="Crowdin" priority="2">If you do not consume all your items before the expiry date, your items will disappear.</note>
+      </trans-unit>
+      <trans-unit id="501" resname="Items do not have a particular button to start and are automatically consumed upon usage.">
+        <source>item_inventory_event_notice_002</source>
+        <target state="needs-translation">item_inventory_event_notice_002</target>
+        <note from="Crowdin" priority="2">Items do not have a particular button to start and are automatically consumed upon usage.</note>
+      </trans-unit>
+      <trans-unit id="503" resname="Items will be consumed first before gems are consumed.">
+        <source>item_inventory_event_notice_003</source>
+        <target state="needs-translation">item_inventory_event_notice_003</target>
+        <note from="Crowdin" priority="2">Items will be consumed first before gems are consumed.</note>
+      </trans-unit>
+      <trans-unit id="505" resname="Some items can only be used in certain Azar versions. If you’re unable to use an item, please update Azar.">
+        <source>item_inventory_event_notice_004</source>
+        <target state="needs-translation">item_inventory_event_notice_004</target>
+        <note from="Crowdin" priority="2">Some items can only be used in certain Azar versions. If you’re unable to use an item, please update Azar.</note>
+      </trans-unit>
+      <trans-unit id="507" resname="Item inventory">
+        <source>item_inventory_title</source>
+        <target state="needs-translation">item_inventory_title</target>
+        <note from="Crowdin" priority="2">Item inventory</note>
+      </trans-unit>
+      <trans-unit id="509" resname="Enter a &lt;a&gt;Friend Invite Code&lt;/a&gt; and get your reward!">
+        <source>invite_code_rn_title</source>
+        <target state="needs-translation">invite_code_rn_title</target>
+        <note from="Crowdin" priority="2">Enter a &lt;a&gt;Friend Invite Code&lt;/a&gt; and get your reward!</note>
+      </trans-unit>
+      <trans-unit id="511" resname="Confirm">
+        <source>invite_code_rn_button</source>
+        <target state="needs-translation">invite_code_rn_button</target>
+        <note from="Crowdin" priority="2">Confirm</note>
+      </trans-unit>
+      <trans-unit id="513" resname="Unfortunately you are not eligible for the Invite A Friend event.">
+        <source>invite_code_na_title</source>
+        <target state="needs-translation">invite_code_na_title</target>
+        <note from="Crowdin" priority="2">Unfortunately you are not eligible for the Invite A Friend event.</note>
+      </trans-unit>
+      <trans-unit id="515" resname="You will not receive any rewards if you've been registered for longer than 5 days. \n There may be areas where participation in the event is not possible. \n If you've already been rewarded, you can't reapply.">
+        <source>invite_code_na_detail</source>
+        <target state="needs-translation">invite_code_na_detail</target>
+        <note from="Crowdin" priority="2">You will not receive any rewards if you've been registered for longer than 5 days. \n There may be areas where participation in the event is not possible. \n If you've already been rewarded, you can't reapply.</note>
+      </trans-unit>
+      <trans-unit id="517" resname="Invalid code. \n Please try again.">
+        <source>invite_code_wrong_title</source>
+        <target state="needs-translation">invite_code_wrong_title</target>
+        <note from="Crowdin" priority="2">Invalid code. \n Please try again.</note>
+      </trans-unit>
+      <trans-unit id="519" resname="An error has occurred. \n Please try again.">
+        <source>invite_code_error_title</source>
+        <target state="needs-translation">invite_code_error_title</target>
+        <note from="Crowdin" priority="2">An error has occurred. \n Please try again.</note>
+      </trans-unit>
+      <trans-unit id="521" resname="Rewards from the Friend Invitation event have been given!">
+        <source>invite_code_success_title</source>
+        <target state="needs-translation">invite_code_success_title</target>
+        <note from="Crowdin" priority="2">Rewards from the Friend Invitation event have been given!</note>
+      </trans-unit>
+      <trans-unit id="523" resname="You can check your rewards in the inventory.">
+        <source>invite_code_success_detail</source>
+        <target state="needs-translation">invite_code_success_detail</target>
+        <note from="Crowdin" priority="2">You can check your rewards in the inventory.</note>
+      </trans-unit>
+      <trans-unit id="525" resname="Consumable Items">
+        <source>Item_inventory_category_consumable_item</source>
+        <target state="needs-translation">Item_inventory_category_consumable_item</target>
+        <note from="Crowdin" priority="2">Consumable Items</note>
+      </trans-unit>
+      <trans-unit id="527" resname="Item inventory">
+        <source>Item_Inventory</source>
+        <target state="needs-translation">Item_Inventory</target>
+        <note from="Crowdin" priority="2">Item inventory</note>
+      </trans-unit>
+      <trans-unit id="529" resname="Enter Shop">
+        <source>item_inventory_enter_shop</source>
+        <target state="needs-translation">item_inventory_enter_shop</target>
+        <note from="Crowdin" priority="2">Enter Shop</note>
+      </trans-unit>
+      <trans-unit id="531" resname="You have already received your reward.">
+        <source>invite_code_again_title</source>
+        <target state="needs-translation">invite_code_again_title</target>
+        <note from="Crowdin" priority="2">You have already received your reward.</note>
+      </trans-unit>
+      <trans-unit id="533" resname="{gemCount} gems are required to send a friend request.">
+        <source>not_enough_gem_popup_match_friend_request</source>
+        <target state="needs-translation">not_enough_gem_popup_match_friend_request</target>
+        <note from="Crowdin" priority="2">{gemCount} gems are required to send a friend request.</note>
+      </trans-unit>
+      <trans-unit id="535" resname="Active">
+        <source>shop_period_complete_btn</source>
+        <target state="needs-translation">shop_period_complete_btn</target>
+        <note from="Crowdin" priority="2">Active</note>
+      </trans-unit>
+      <trans-unit id="537" resname="Text will be appeared correctly during matches.">
+        <source>studio_graphic_subtitle</source>
+        <target state="needs-translation">studio_graphic_subtitle</target>
+        <note from="Crowdin" priority="2">Text will be appeared correctly during matches.</note>
+      </trans-unit>
+      <trans-unit id="539" resname="Set">
+        <source>deco_avatar_set</source>
+        <target state="needs-translation">deco_avatar_set</target>
+        <note from="Crowdin" priority="2">Set</note>
+      </trans-unit>
+      <trans-unit id="541" resname="Unexpected purchasing error. \n Please try again.">
+        <source>gemshop_purchase_error_msg</source>
+        <target state="needs-translation">gemshop_purchase_error_msg</target>
+        <note from="Crowdin" priority="2">Unexpected purchasing error. \n Please try again.</note>
+      </trans-unit>
+      <trans-unit id="543" resname="Make new friends instantly!">
+        <source>FAST_CHAT_SHOP_TITLE</source>
+        <target state="needs-translation">FAST_CHAT_SHOP_TITLE</target>
+        <note from="Crowdin" priority="2">Make new friends instantly!</note>
+      </trans-unit>
+      <trans-unit id="545" resname="Start chatting with {N} new people now!&#13;&#10;Chat rooms will expire if there is no reply for 7 days">
+        <source>FAST_CHAT_SHOP_DESC</source>
+        <target state="needs-translation">FAST_CHAT_SHOP_DESC</target>
+        <note from="Crowdin" priority="2">Start chatting with {N} new people now!&#13;
+Chat rooms will expire if there is no reply for 7 days</note>
+      </trans-unit>
+      <trans-unit id="547" resname="Update the application from the appstore to use the feature.">
+        <source>gemshop_update_msg</source>
+        <target state="needs-translation">gemshop_update_msg</target>
+        <note from="Crowdin" priority="2">Update the application from the appstore to use the feature.</note>
+      </trans-unit>
+      <trans-unit id="549" resname="Background">
+        <source>deco_avatar_background_image</source>
+        <target state="needs-translation">deco_avatar_background_image</target>
+        <note from="Crowdin" priority="2">Background</note>
+      </trans-unit>
+      <trans-unit id="551" resname="Set">
+        <source>deco_avatar_set_A</source>
+        <target state="needs-translation">deco_avatar_set_A</target>
+        <note from="Crowdin" priority="2">Set</note>
+      </trans-unit>
+      <trans-unit id="553" resname="complete">
+        <source>gemshop_complete</source>
+        <target state="needs-translation">gemshop_complete</target>
+        <note from="Crowdin" priority="2">complete</note>
+      </trans-unit>
+      <trans-unit id="555" resname="head">
+        <source>deco_avatar_a_head</source>
+        <target state="needs-translation">deco_avatar_a_head</target>
+        <note from="Crowdin" priority="2">head</note>
+      </trans-unit>
+      <trans-unit id="557" resname="Body">
+        <source>deco_avatar_a_body</source>
+        <target state="needs-translation">deco_avatar_a_body</target>
+        <note from="Crowdin" priority="2">Body</note>
+      </trans-unit>
+      <trans-unit id="559" resname="Background">
+        <source>deco_avatar_a_background</source>
+        <target state="needs-translation">deco_avatar_a_background</target>
+        <note from="Crowdin" priority="2">Background</note>
+      </trans-unit>
+      <trans-unit id="561" resname="Head">
+        <source>deco_avatar_b_head</source>
+        <target state="needs-translation">deco_avatar_b_head</target>
+        <note from="Crowdin" priority="2">Head</note>
+      </trans-unit>
+      <trans-unit id="563" resname="Body">
+        <source>deco_avatar_b_body</source>
+        <target state="needs-translation">deco_avatar_b_body</target>
+        <note from="Crowdin" priority="2">Body</note>
+      </trans-unit>
+      <trans-unit id="565" resname="Background">
+        <source>deco_avatar_b_background</source>
+        <target state="needs-translation">deco_avatar_b_background</target>
+        <note from="Crowdin" priority="2">Background</note>
+      </trans-unit>
+      <trans-unit id="567" resname="Head">
+        <source>deco_avatar_m_head</source>
+        <target state="needs-translation">deco_avatar_m_head</target>
+        <note from="Crowdin" priority="2">Head</note>
+      </trans-unit>
+      <trans-unit id="569" resname="Body">
+        <source>deco_avatar_m_body</source>
+        <target state="needs-translation">deco_avatar_m_body</target>
+        <note from="Crowdin" priority="2">Body</note>
+      </trans-unit>
+      <trans-unit id="571" resname="Background">
+        <source>deco_avatar_m_background</source>
+        <target state="needs-translation">deco_avatar_m_background</target>
+        <note from="Crowdin" priority="2">Background</note>
+      </trans-unit>
+      <trans-unit id="573" resname="Lounge Plus">
+        <source>loungeplus_popup_loungeplus_title</source>
+        <target state="needs-translation">loungeplus_popup_loungeplus_title</target>
+        <note from="Crowdin" priority="2">Lounge Plus</note>
+      </trans-unit>
+      <trans-unit id="575" resname="The best way to enjoy premium benefits!">
+        <source>loungeplus_popup_loungeplus_desc</source>
+        <target state="needs-translation">loungeplus_popup_loungeplus_desc</target>
+        <note from="Crowdin" priority="2">The best way to enjoy premium benefits!</note>
+      </trans-unit>
+      <trans-unit id="577" resname="See who likes you">
+        <source>loungeplus_popup_see_who_like_you_title</source>
+        <target state="needs-translation">loungeplus_popup_see_who_like_you_title</target>
+        <note from="Crowdin" priority="2">See who likes you</note>
+      </trans-unit>
+      <trans-unit id="579" resname="Unlimited Likes">
+        <source>loungeplus_popup_unlimited_likes_title</source>
+        <target state="needs-translation">loungeplus_popup_unlimited_likes_title</target>
+        <note from="Crowdin" priority="2">Unlimited Likes</note>
+      </trans-unit>
+      <trans-unit id="581" resname="3 Message Items every week">
+        <source>loungeplus_popup_message_title</source>
+        <target state="needs-translation">loungeplus_popup_message_title</target>
+        <note from="Crowdin" priority="2">3 Message Items every week</note>
+      </trans-unit>
+      <trans-unit id="583" resname="Unlimited Rewind">
+        <source>loungeplus_popup_rewind_title</source>
+        <target state="needs-translation">loungeplus_popup_rewind_title</target>
+        <note from="Crowdin" priority="2">Unlimited Rewind</note>
+      </trans-unit>
+      <trans-unit id="585" resname="1 Boost Item">
+        <source>loungeplus_popup_boost_title</source>
+        <target state="needs-translation">loungeplus_popup_boost_title</target>
+        <note from="Crowdin" priority="2">1 Boost Item</note>
+      </trans-unit>
+      <trans-unit id="587" resname="See who likes me and match instantly! Start talking now!">
+        <source>loungeplus_popup_see_who_like_you_desc</source>
+        <target state="needs-translation">loungeplus_popup_see_who_like_you_desc</target>
+        <note from="Crowdin" priority="2">See who likes me and match instantly! Start talking now!</note>
+      </trans-unit>
+      <trans-unit id="589" resname="Right swipe as many times as you want!">
+        <source>loungeplus_popup_unlimited_likes_desc</source>
+        <target state="needs-translation">loungeplus_popup_unlimited_likes_desc</target>
+        <note from="Crowdin" priority="2">Right swipe as many times as you want!</note>
+      </trans-unit>
+      <trans-unit id="591" resname="Even if you don’t match, you can still talk with other people using your 3 weekly message items!">
+        <source>loungeplus_popup_message_desc</source>
+        <target state="needs-translation">loungeplus_popup_message_desc</target>
+        <note from="Crowdin" priority="2">Even if you don’t match, you can still talk with other people using your 3 weekly message items!</note>
+      </trans-unit>
+      <trans-unit id="593" resname="Take back a missed match opportunity!">
+        <source>loungeplus_popup_rewind_desc</source>
+        <target state="needs-translation">loungeplus_popup_rewind_desc</target>
+        <note from="Crowdin" priority="2">Take back a missed match opportunity!</note>
+      </trans-unit>
+      <trans-unit id="595" resname="Increase your chances of matching and get your profile seen by up to 10x more people for 1 hour!">
+        <source>loungeplus_popup_boost_desc</source>
+        <target state="needs-translation">loungeplus_popup_boost_desc</target>
+        <note from="Crowdin" priority="2">Increase your chances of matching and get your profile seen by up to 10x more people for 1 hour!</note>
+      </trans-unit>
+      <trans-unit id="597" resname="Lounge Plus">
+        <source>loungeplus_popup_title</source>
+        <target state="needs-translation">loungeplus_popup_title</target>
+        <note from="Crowdin" priority="2">Lounge Plus</note>
+      </trans-unit>
+      <trans-unit id="599" resname="Top">
+        <source>deco_avatar_m_top</source>
+        <target state="needs-translation">deco_avatar_m_top</target>
+        <note from="Crowdin" priority="2">Top</note>
+      </trans-unit>
+      <trans-unit id="601" resname="Promo ended">
+        <source>shoppopup_eventend_title</source>
+        <target state="needs-translation">shoppopup_eventend_title</target>
+        <note from="Crowdin" priority="2">Promo ended</note>
+      </trans-unit>
+      <trans-unit id="603" resname="You’ve either used this item or the promo has ended.">
+        <source>shoppopup_eventend_text</source>
+        <target state="needs-translation">shoppopup_eventend_text</target>
+        <note from="Crowdin" priority="2">You’ve either used this item or the promo has ended.</note>
+      </trans-unit>
+      <trans-unit id="605" resname="Match without gems now!">
+        <source>GENDER_PERIOD_SHOP_TITLE</source>
+        <target state="needs-translation">GENDER_PERIOD_SHOP_TITLE</target>
+        <note from="Crowdin" priority="2">Match without gems now!</note>
+      </trans-unit>
+      <trans-unit id="607" resname="{var} second(s) left">
+        <source>item_inventory_expire_second</source>
+        <target state="needs-translation">item_inventory_expire_second</target>
+        <note from="Crowdin" priority="2">{var} second(s) left</note>
+      </trans-unit>
+      <trans-unit id="609" resname="Face shape">
+        <source>deco_avatar_head_shape</source>
+        <target state="needs-translation">deco_avatar_head_shape</target>
+        <note from="Crowdin" priority="2">Face shape</note>
+      </trans-unit>
+      <trans-unit id="611" resname="Top">
+        <source>deco_avatar_a_top</source>
+        <target state="needs-translation">deco_avatar_a_top</target>
+        <note from="Crowdin" priority="2">Top</note>
+      </trans-unit>
+      <trans-unit id="613" resname="Top">
+        <source>deco_avatar_b_top</source>
+        <target state="needs-translation">deco_avatar_b_top</target>
+        <note from="Crowdin" priority="2">Top</note>
+      </trans-unit>
+      <trans-unit id="615" resname="Subscribe">
+        <source>category_name_6</source>
+        <target state="needs-translation">category_name_6</target>
+        <note from="Crowdin" priority="2">Subscribe</note>
+      </trans-unit>
+      <trans-unit id="617" resname="Hair">
+        <source>deco_avatar_c_head_hair</source>
+        <target state="needs-translation">deco_avatar_c_head_hair</target>
+        <note from="Crowdin" priority="2">Hair</note>
+      </trans-unit>
+      <trans-unit id="619" resname="Face shape">
+        <source>deco_avatar_c_head_shape</source>
+        <target state="needs-translation">deco_avatar_c_head_shape</target>
+        <note from="Crowdin" priority="2">Face shape</note>
+      </trans-unit>
+      <trans-unit id="621" resname="Eyebrows">
+        <source>deco_avatar_c_head_eyebrows</source>
+        <target state="needs-translation">deco_avatar_c_head_eyebrows</target>
+        <note from="Crowdin" priority="2">Eyebrows</note>
+      </trans-unit>
+      <trans-unit id="623" resname="Eyes">
+        <source>deco_avatar_c_head_eyes</source>
+        <target state="needs-translation">deco_avatar_c_head_eyes</target>
+        <note from="Crowdin" priority="2">Eyes</note>
+      </trans-unit>
+      <trans-unit id="625" resname="Nose">
+        <source>deco_avatar_c_head_nose</source>
+        <target state="needs-translation">deco_avatar_c_head_nose</target>
+        <note from="Crowdin" priority="2">Nose</note>
+      </trans-unit>
+      <trans-unit id="627" resname="Mouth">
+        <source>deco_avatar_c_head_mouth</source>
+        <target state="needs-translation">deco_avatar_c_head_mouth</target>
+        <note from="Crowdin" priority="2">Mouth</note>
+      </trans-unit>
+      <trans-unit id="629" resname="Body">
+        <source>deco_avatar_c_body_shape</source>
+        <target state="needs-translation">deco_avatar_c_body_shape</target>
+        <note from="Crowdin" priority="2">Body</note>
+      </trans-unit>
+      <trans-unit id="631" resname="Top">
+        <source>deco_avatar_c_body_top</source>
+        <target state="needs-translation">deco_avatar_c_body_top</target>
+        <note from="Crowdin" priority="2">Top</note>
+      </trans-unit>
+      <trans-unit id="633" resname="Background">
+        <source>deco_avatar_c_background_image</source>
+        <target state="needs-translation">deco_avatar_c_background_image</target>
+        <note from="Crowdin" priority="2">Background</note>
+      </trans-unit>
+      <trans-unit id="635" resname="Eyewear">
+        <source>deco_avatar_c_accessory_eyewear</source>
+        <target state="needs-translation">deco_avatar_c_accessory_eyewear</target>
+        <note from="Crowdin" priority="2">Eyewear</note>
+      </trans-unit>
+      <trans-unit id="637" resname="Necklace">
+        <source>deco_avatar_c_accessory_necklace</source>
+        <target state="needs-translation">deco_avatar_c_accessory_necklace</target>
+        <note from="Crowdin" priority="2">Necklace</note>
+      </trans-unit>
+      <trans-unit id="639" resname="Earring">
+        <source>deco_avatar_c_accessory_earring</source>
+        <target state="needs-translation">deco_avatar_c_accessory_earring</target>
+        <note from="Crowdin" priority="2">Earring</note>
+      </trans-unit>
+      <trans-unit id="641" resname="First month">
+        <source>first_month</source>
+        <target state="needs-translation">first_month</target>
+        <note from="Crowdin" priority="2">First month</note>
+      </trans-unit>
+      <trans-unit id="643" resname="The sign-up discount is eligible for the first month of the subscription only. The following months will be charged the regular price, even if the discount price is still displayed.">
+        <source>lounge_plus_warning</source>
+        <target state="needs-translation">lounge_plus_warning</target>
+        <note from="Crowdin" priority="2">The sign-up discount is eligible for the first month of the subscription only. The following months will be charged the regular price, even if the discount price is still displayed.</note>
+      </trans-unit>
+      <trans-unit id="645" resname="test dan title">
+        <source>test_dan</source>
+        <target state="needs-translation">test_dan</target>
+        <note from="Crowdin" priority="2">test dan title</note>
+      </trans-unit>
+      <trans-unit id="647" resname="Global Match Pass">
+        <source>vip_popup_global_match_pass_title</source>
+        <target state="needs-translation">vip_popup_global_match_pass_title</target>
+        <note from="Crowdin" priority="2">Global Match Pass</note>
+      </trans-unit>
+      <trans-unit id="649" resname="Make international friends by choosing your favorite country for FREE!">
+        <source>vip_popup_global_match_pass_desc</source>
+        <target state="needs-translation">vip_popup_global_match_pass_desc</target>
+        <note from="Crowdin" priority="2">Make international friends by choosing your favorite country for FREE!</note>
+      </trans-unit>
+      <trans-unit id="651" resname="Domestic Guarantee 20% OFF">
+        <source>vip_popup_domestic_guarantee_discount_title</source>
+        <target state="needs-translation">vip_popup_domestic_guarantee_discount_title</target>
+        <note from="Crowdin" priority="2">Domestic Guarantee 20% OFF</note>
+      </trans-unit>
+      <trans-unit id="653" resname="VIP only! 20% off guaranteed matching with your country.">
+        <source>vip_popup_domestic_guarantee_discount_desc</source>
+        <target state="needs-translation">vip_popup_domestic_guarantee_discount_desc</target>
+        <note from="Crowdin" priority="2">VIP only! 20% off guaranteed matching with your country.</note>
+      </trans-unit>
+      <trans-unit id="655" resname="The best way to enjoy 7 unlimited premium benefits! Distinguish yourself to people worldwide.">
+        <source>vip_popup_main_desc</source>
+        <target state="needs-translation">vip_popup_main_desc</target>
+        <note from="Crowdin" priority="2">The best way to enjoy 7 unlimited premium benefits! Distinguish yourself to people worldwide.</note>
+      </trans-unit>
+      <trans-unit id="657" resname="Azar VIP Membership">
+        <source>vip_popup_main_title</source>
+        <target state="needs-translation">vip_popup_main_title</target>
+        <note from="Crowdin" priority="2">Azar VIP Membership</note>
+      </trans-unit>
+      <trans-unit id="659" resname="{{Click our Terms of Service for more information.}}">
+        <source>eu_shop_content_2</source>
+        <target state="needs-translation">eu_shop_content_2</target>
+        <note from="Crowdin" priority="2">{{Click our Terms of Service for more information.}}</note>
+      </trans-unit>
+      <trans-unit id="661" resname="In accordance with applicable laws, you have fourteen days from the purchase of Gems to exercise your right to end it.">
+        <source>eu_shop_content_1</source>
+        <target state="needs-translation">eu_shop_content_1</target>
+        <note from="Crowdin" priority="2">In accordance with applicable laws, you have fourteen days from the purchase of Gems to exercise your right to end it.</note>
+      </trans-unit>
+      <trans-unit id="663" resname="All prices are inclusive of VAT.">
+        <source>eu_shop_content_3</source>
+        <target state="needs-translation">eu_shop_content_3</target>
+        <note from="Crowdin" priority="2">All prices are inclusive of VAT.</note>
+      </trans-unit>
+      <trans-unit id="665" resname="Background effect">
+        <source>deco_background_effect</source>
+        <target state="needs-translation">deco_background_effect</target>
+        <note from="Crowdin" priority="2">Background effect</note>
+      </trans-unit>
+      <trans-unit id="667" resname="No effect">
+        <source>deco_no_effect</source>
+        <target state="needs-translation">deco_no_effect</target>
+        <note from="Crowdin" priority="2">No effect</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
